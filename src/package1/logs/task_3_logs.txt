@@ -1,0 +1,42 @@
+LOG FILE:
+
+0.03: Moving forward
+0.13: Turning gradual right
+1.73: Moving forward
+3.44: Turning gradual left
+5.53: Moving forward
+6.33: Turning sharp right
+6.84: Turning gradual left
+9.34: Moving forward
+10.94: Turning gradual right
+14.04: Moving forward
+14.35: Turning gradual left
+15.04: Turning gradual right
+15.14: Turning gradual left
+15.74: Turning gradual right
+15.94: Turning gradual left
+19.64: Moving forward
+21.94: Turning sharp left
+21.94: Moving forward
+22.34: Turning gradual right
+29.06: Moving forward
+31.65: Turning sharp left
+31.65: Turning gradual right
+32.55: Moving forward
+35.25: Turning sharp right
+35.25: Moving forward
+35.65: Turning gradual left
+42.35: Moving forward
+44.66: Turning sharp right
+44.66: Turning gradual left
+45.86: Moving forward
+45.96: Turning gradual left
+49.36: Turning sharp right
+49.37: Turning gradual left
+49.57: Turning gradual right
+50.47: Moving forward
+51.47: Turning gradual right
+63.37: Turning gradual left
+64.07: Moving forward
+64.67: Turning gradual right
+64.76: --------END OF MAZE----------

@@ -1,0 +1,447 @@
+LOG FILE:
+
+0.02: Turning gradual right
+2.22: Moving forward
+4.82: Turning gradual left
+7.22: Moving forward
+8.32: Turning gradual left
+8.43: Moving forward
+8.53: Turning gradual left
+8.63: Moving forward
+8.82: Turning gradual left
+9.42: Moving forward
+10.92: Turning gradual right
+14.42: Moving forward
+14.72: Turning gradual left
+16.42: Turning gradual right
+16.52: Turning gradual left
+19.43: Moving forward
+21.72: Turning gradual left
+21.84: Moving forward
+22.62: Turning gradual right
+27.52: Moving forward
+30.62: Turning gradual right
+30.72: Moving forward
+32.22: Turning gradual right
+32.32: Moving forward
+33.02: Turning gradual left
+37.33: Moving forward
+37.53: Turning gradual left
+40.42: Turning gradual right
+45.92: Turning gradual left
+49.12: Moving forward
+49.62: Turning gradual left
+53.32: Reversing
+53.52: Turning gradual left
+54.02: Reversing
+54.22: Turning gradual left
+55.03: Reversing
+55.22: Turning gradual left
+59.53: Moving forward
+60.62: Turning gradual left
+60.83: Moving forward
+61.42: Turning gradual left
+61.82: Reversing
+61.92: Turning gradual left
+62.12: Moving forward
+62.52: Reversing
+62.82: Turning gradual left
+62.92: Moving forward
+64.02: Turning gradual left
+64.12: Reversing
+64.32: Turning gradual left
+65.12: Moving forward
+65.52: Turning gradual left
+66.62: Reversing
+66.82: Turning gradual left
+69.92: Moving forward
+70.03: Reversing
+70.22: Moving forward
+71.02: Reversing
+71.62: Turning gradual left
+72.33: Moving forward
+72.92: Turning gradual left
+76.82: Reversing
+77.02: Turning gradual left
+80.22: Reversing
+80.42: Turning gradual left
+85.02: Reversing
+85.23: Turning gradual left
+92.42: Moving forward
+92.92: Turning gradual left
+95.12: Moving forward
+95.32: Turning gradual left
+96.52: Moving forward
+96.62: Turning gradual left
+96.72: Turning gradual right
+96.82: Moving forward
+97.72: Turning gradual right
+100.33: Moving forward
+100.82: Turning gradual left
+100.93: Moving forward
+101.02: Turning gradual left
+103.43: Moving forward
+104.04: Turning gradual left
+104.22: Moving forward
+105.13: Turning gradual left
+106.02: Moving forward
+106.33: Turning gradual left
+106.52: Reversing
+107.23: Turning gradual left
+107.43: Turning gradual right
+107.62: Turning gradual left
+107.92: Turning gradual right
+108.22: Turning gradual left
+112.82: Reversing
+113.02: Turning gradual left
+125.22: Moving forward
+125.93: Turning gradual right
+130.12: Moving forward
+131.72: Turning gradual right
+131.84: Moving forward
+132.72: Turning gradual left
+137.82: Moving forward
+137.92: Turning gradual left
+141.33: Turning gradual right
+143.62: Moving forward
+143.82: Turning gradual right
+143.92: Moving forward
+144.02: Turning gradual right
+146.82: Turning gradual left
+149.02: Moving forward
+149.32: Turning gradual left
+152.02: Reversing
+152.52: Turning gradual left
+153.32: Reversing
+153.52: Turning gradual left
+161.12: Moving forward
+162.03: Turning gradual left
+162.12: Moving forward
+162.32: Turning gradual left
+162.42: Reversing
+162.52: Turning gradual left
+166.12: Turning gradual right
+173.72: Moving forward
+176.02: Turning gradual right
+176.22: Moving forward
+177.02: Turning gradual left
+179.32: Moving forward
+179.52: Turning gradual left
+180.32: Moving forward
+180.52: Turning gradual right
+180.62: Turning gradual left
+180.92: Reversing
+181.32: Turning gradual left
+185.92: Reversing
+186.12: Turning gradual left
+195.02: Moving forward
+195.52: Turning gradual right
+198.72: Moving forward
+200.12: Turning gradual right
+200.22: Moving forward
+200.72: Turning gradual left
+207.12: Turning gradual right
+211.02: Turning gradual left
+212.62: Moving forward
+213.02: Turning gradual left
+214.42: Reversing
+214.82: Turning gradual left
+220.62: Moving forward
+221.22: Turning gradual left
+221.42: Reversing
+221.52: Turning gradual left
+221.62: Moving forward
+221.72: Turning gradual left
+223.92: Turning gradual right
+229.92: Moving forward
+231.92: Turning gradual right
+232.02: Moving forward
+233.02: Turning gradual left
+235.72: Moving forward
+235.92: Turning gradual left
+236.82: Moving forward
+237.22: Turning gradual left
+237.32: Reversing
+237.82: Turning gradual left
+241.02: Turning gradual right
+241.12: Turning gradual left
+247.02: Moving forward
+247.32: Turning gradual right
+250.22: Moving forward
+252.42: Turning gradual left
+258.42: Turning gradual right
+263.12: Turning gradual left
+264.92: Moving forward
+265.22: Turning gradual left
+267.02: Reversing
+267.42: Turning gradual left
+273.12: Moving forward
+273.92: Reversing
+274.22: Moving forward
+274.72: Turning gradual left
+274.82: Reversing
+274.93: Moving forward
+275.52: Reversing
+276.02: Turning gradual left
+277.02: Moving forward
+277.62: Turning gradual right
+278.32: Moving forward
+278.52: Turning gradual left
+281.32: Reversing
+281.52: Turning gradual left
+285.42: Reversing
+285.62: Turning gradual left
+290.82: Moving forward
+291.32: Turning gradual left
+291.42: Moving forward
+291.52: Turning gradual left
+292.92: Moving forward
+294.22: Turning gradual left
+294.32: Moving forward
+295.02: Turning gradual left
+295.12: Moving forward
+295.42: Turning gradual left
+295.62: Moving forward
+296.22: Turning gradual left
+296.43: Moving forward
+297.02: Turning gradual left
+297.12: Moving forward
+297.42: Reversing
+297.92: Turning gradual left
+298.02: Turning gradual right
+298.12: Turning gradual left
+303.42: Moving forward
+303.72: Turning gradual left
+306.42: Turning gradual right
+309.12: Moving forward
+310.52: Turning gradual right
+310.62: Moving forward
+311.22: Turning gradual left
+317.22: Turning gradual right
+322.32: Turning gradual left
+327.52: Turning gradual right
+328.42: Moving forward
+329.12: Turning gradual right
+336.52: Turning gradual left
+337.32: Moving forward
+337.82: Turning gradual right
+340.82: Moving forward
+340.92: Turning gradual right
+342.82: Reversing
+342.92: Turning gradual right
+344.12: Reversing
+344.22: Turning gradual right
+345.02: Reversing
+345.12: Turning gradual right
+346.02: Reversing
+346.12: Turning gradual right
+347.22: Reversing
+347.42: Turning gradual right
+352.22: Moving forward
+352.52: Turning gradual left
+355.62: Moving forward
+355.82: Turning gradual left
+361.32: Moving forward
+361.62: Turning gradual left
+361.82: Moving forward
+361.92: Reversing
+362.12: Turning gradual left
+362.22: Moving forward
+362.52: Reversing
+362.72: Turning gradual left
+362.82: Moving forward
+363.22: Reversing
+363.62: Moving forward
+364.42: Reversing
+364.82: Turning gradual left
+365.52: Moving forward
+366.02: Turning gradual left
+367.32: Reversing
+367.62: Turning gradual left
+370.72: Moving forward
+371.42: Turning gradual left
+371.52: Moving forward
+371.82: Turning gradual left
+372.22: Moving forward
+372.52: Reversing
+372.62: Turning gradual left
+372.72: Moving forward
+373.02: Reversing
+373.22: Turning gradual left
+373.32: Moving forward
+374.12: Reversing
+374.52: Turning gradual left
+375.22: Moving forward
+375.62: Turning gradual left
+376.52: Moving forward
+376.72: Reversing
+376.92: Moving forward
+377.42: Turning gradual left
+377.53: Reversing
+377.82: Turning gradual left
+378.52: Moving forward
+378.92: Turning gradual left
+381.22: Reversing
+381.42: Turning gradual left
+384.22: Reversing
+384.42: Turning gradual left
+385.82: Reversing
+385.92: Turning gradual left
+387.32: Reversing
+387.52: Turning gradual left
+391.92: Moving forward
+392.72: Turning gradual left
+394.52: Moving forward
+395.52: Turning gradual left
+395.62: Moving forward
+396.12: Turning gradual left
+396.42: Moving forward
+396.82: Turning gradual left
+396.92: Moving forward
+397.62: Turning gradual left
+397.72: Moving forward
+397.92: Turning gradual right
+398.02: Reversing
+398.42: Turning gradual left
+398.72: Turning gradual right
+398.82: Turning gradual left
+398.92: Reversing
+399.02: Turning gradual left
+399.12: Turning gradual right
+399.22: Turning gradual left
+401.32: Turning gradual right
+401.52: Turning gradual left
+408.62: Moving forward
+409.02: Turning gradual right
+412.22: Moving forward
+413.92: Turning gradual right
+414.02: Turning gradual left
+417.52: Moving forward
+418.22: Turning gradual left
+418.32: Moving forward
+419.42: Turning gradual left
+422.12: Reversing
+422.22: Turning gradual left
+422.52: Reversing
+422.72: Turning gradual left
+423.42: Reversing
+423.52: Turning gradual left
+423.92: Reversing
+424.02: Turning gradual left
+426.92: Moving forward
+427.72: Turning gradual left
+427.92: Moving forward
+428.42: Turning gradual left
+429.02: Moving forward
+429.12: Reversing
+429.32: Turning gradual left
+429.42: Moving forward
+430.12: Reversing
+430.62: Turning gradual left
+431.42: Moving forward
+431.92: Turning gradual left
+433.12: Turning gradual right
+433.22: Moving forward
+433.52: Turning gradual left
+433.62: Reversing
+433.92: Turning gradual left
+434.52: Moving forward
+434.92: Turning gradual left
+437.02: Reversing
+437.12: Turning gradual left
+438.72: Reversing
+438.92: Turning gradual left
+441.52: Reversing
+441.62: Turning gradual left
+447.62: Moving forward
+448.42: Turning gradual left
+450.02: Moving forward
+451.02: Turning gradual left
+451.12: Moving forward
+451.62: Turning gradual right
+451.72: Turning gradual left
+451.92: Turning gradual right
+452.12: Turning gradual left
+452.42: Moving forward
+452.92: Turning gradual left
+453.12: Moving forward
+453.72: Turning gradual left
+453.82: Moving forward
+454.02: Turning gradual right
+454.12: Turning gradual left
+454.22: Reversing
+454.62: Turning gradual right
+455.22: Turning gradual left
+455.32: Turning gradual right
+455.42: Turning gradual left
+455.62: Reversing
+455.82: Turning gradual right
+456.22: Turning gradual left
+456.52: Turning gradual right
+456.62: Reversing
+456.72: Turning gradual left
+456.82: Turning gradual right
+457.22: Turning gradual left
+457.32: Turning gradual right
+457.42: Turning gradual left
+457.72: Reversing
+457.92: Turning gradual right
+459.12: Turning gradual left
+459.72: Reversing
+459.92: Turning gradual right
+460.82: Turning gradual left
+460.92: Turning gradual right
+461.02: Turning gradual left
+461.82: Reversing
+462.02: Turning gradual left
+462.22: Turning gradual right
+462.42: Turning gradual left
+465.92: Reversing
+466.12: Turning gradual left
+468.92: Reversing
+469.12: Turning gradual left
+477.62: Moving forward
+478.22: Turning gradual right
+481.23: Moving forward
+482.62: Turning gradual right
+482.72: Moving forward
+482.92: Turning gradual left
+488.92: Turning gradual right
+493.02: Turning gradual left
+494.62: Moving forward
+494.92: Turning gradual left
+496.82: Reversing
+497.22: Turning gradual left
+503.92: Moving forward
+504.62: Reversing
+504.82: Turning gradual left
+504.92: Moving forward
+505.33: Reversing
+505.52: Turning gradual left
+505.62: Moving forward
+505.82: Turning gradual left
+505.92: Reversing
+506.02: Turning gradual left
+507.92: Turning gradual right
+513.62: Moving forward
+515.92: Turning gradual right
+516.02: Moving forward
+516.72: Turning gradual left
+520.02: Moving forward
+520.52: Turning gradual right
+520.62: Turning gradual left
+522.72: Reversing
+522.92: Turning gradual left
+523.42: Reversing
+523.62: Turning gradual left
+524.32: Reversing
+524.42: Turning gradual right
+524.52: Turning gradual left
+525.02: Moving forward
+525.52: Turning gradual left
+525.82: Reversing
+526.02: Turning gradual left
+527.22: Moving forward
+527.42: Turning gradual left
+531.03: Reversing
+531.22: Turning gradual left

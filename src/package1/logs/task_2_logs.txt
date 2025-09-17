@@ -1,0 +1,41 @@
+LOG FILE:
+
+0.05: Moving forward
+0.15: Turning gradual right
+1.45: Moving forward
+2.95: Turning gradual left
+4.75: Moving forward
+5.55: Turning sharp right
+6.56: Turning gradual left
+9.76: Moving forward
+11.16: Turning gradual right
+14.56: Moving forward
+14.86: Turning gradual left
+19.16: Moving forward
+21.16: Turning sharp left
+21.17: Moving forward
+21.57: Turning gradual right
+27.16: Moving forward
+29.26: Turning sharp left
+29.27: Turning gradual right
+30.07: Moving forward
+32.17: Turning gradual right
+32.27: Turning gradual left
+36.57: Moving forward
+38.67: Turning sharp right
+38.67: Turning gradual left
+39.47: Moving forward
+39.57: Turning gradual left
+41.47: Turning gradual right
+42.37: Moving forward
+43.17: Turning gradual right
+53.17: Turning gradual left
+54.08: Moving forward
+54.67: Turning gradual right
+58.98: Moving forward
+59.87: Turning sharp left
+60.37: Turning gradual right
+61.28: Turning sharp left
+61.28: Turning gradual right
+62.38: Turning sharp left
+62.38: Turning gradual right

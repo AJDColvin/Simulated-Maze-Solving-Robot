@@ -1,0 +1,12 @@
+<launch>
+
+  <param name="logfile" value="task_1_logs.txt"/>
+
+  <!-- Launch task1 -->
+  <node pkg="package1" type="task_1.py" name="task_1_node" output="screen"></node>
+
+  <!-- Launch Logger -->
+  <node pkg="package1" type="LogNode.py" name="Log_File_node" output="screen"></node>
+
+</launch>
+
